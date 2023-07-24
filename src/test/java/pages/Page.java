@@ -12,4 +12,5 @@ public class Page {
     @FindBy(xpath = "twotabsearchtextbox")
     public WebElement aramaKutusu;
 
+
 }
